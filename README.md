@@ -57,6 +57,8 @@
     <a href="https://github.com/KapilKumar7/omdb_Movies" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=omdb_Movies App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Omdb-App" />
     </a>
+    
+    
 </p>
 <br>
 
@@ -71,13 +73,15 @@
     <a href="https://www.linkedin.com/in/kapilkumar7/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=https://www.linkedin.com/in/kapilkumar7/" />
     </a>
-    <a href="https://twitter.com/KpilKumar7">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/KpilKumar7" />
+    <a href="https://medium.com/@kapilkumar999238239">
+        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@kapilkumar999238239" />
     </a>
     </a>
     <a title="mrkapilsiwach@outlook.com" href="mailto:mrkapilsiwach@outlook.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mrkapilsiwach@outlook.com" />
     </a>
+    
+    
 </p>
 <br>
 
@@ -102,7 +106,7 @@
 
 
 <p>
-    <a href="https://github.com/KapilKumar7/myntra.com-Clone">
+    <a href="https://github.com/KapilKumar7/Myntra-Clone?organization=KapilKumar7&organization=KapilKumar7">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KapilKumar7&repo=myntra.com-Clone&locale=en&border_radius=0&theme=dark" alt="" />
     </a>
     <a href="https://github.com/KapilKumar7/pluralsightclone">
