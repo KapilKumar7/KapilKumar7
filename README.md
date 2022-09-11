@@ -102,19 +102,6 @@
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-    <a href="https://github.com/KapilKumar7/Myntra-Clone?organization=KapilKumar7&organization=KapilKumar7">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KapilKumar7&repo=myntra.com-Clone&locale=en&border_radius=0&theme=dark" alt="" />
-    </a>
-    <a href="https://github.com/KapilKumar7/pluralsightclone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KapilKumar7&repo=pluralsightclone&locale=en&border_radius=0&theme=dark" alt="" />
-    </a>
-    <a href="https://github.com/KapilKumar7/omdb_Movies">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KapilKumar7&repo=omdb_Movies&locale=en&border_radius=0&theme=dark" alt="https://github.com/KapilKumar7/omdb_Movies" />
-    </a>
     
       
 </p>
