@@ -11,7 +11,10 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Java software developer who focuses on writing clean, elegant and efficient code. I love to expirement with new tech tools and building solution of some problem out of it . I keep on working on my Problem solving skills By practicing DSA on regular Basis. I am fond of reading a lots of Books ,so my goal is to convert these books into practical softwares (Actually that was my motivation to came to Teck World )  </i>
+    <i>- An enthusiastic Java Backend Developer with hands-on experience with Core
+Java, JPA Hibernate, and Spring Boot. Developing skills for writing clean,
+optimized, solution-oriented code. It will be a pleasure to work with a talented
+developer and to contribute to the success of the company. <br> I am fond of reading a lots of Books ,so my goal is to convert these books into practical softwares (Actually that was my motivation to came to Teck World )  </i>
 </h3>
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
