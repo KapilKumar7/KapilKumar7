@@ -7,6 +7,7 @@
 </h1>
 
 [![@kapil's Holopin board](https://holopin.me/kapil)](https://holopin.io/@kapil)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KapilKumar7&label=Profile%20views&color=0e75b6&style=flat" alt="KapilKumar7" /> </p>
 
 
 
@@ -70,6 +71,7 @@ developer and to contribute to the success of the company. <br> I am fond of rea
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KapilKumar7" alt="KapilKumar7" /></a> </p>
 
 <h2><i>Let's Connect</i></h2>
 
