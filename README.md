@@ -71,7 +71,7 @@ developer and to contribute to the success of the company. <br> I am fond of rea
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KapilKumar7" alt="KapilKumar7" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KapilKumar7" alt="KapilKumar7" /></a> </p> -->
 
 <h2><i>Let's Connect</i></h2>
 
