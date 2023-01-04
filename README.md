@@ -1,8 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Kapil Kumar
+  Wow! You're about to discover the profile of a truly fascinating individual.
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -14,10 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- An enthusiastic Java Backend Developer with hands-on experience with Core
-Java, JPA Hibernate, and Spring Boot. Developing skills for writing clean,
-optimized, solution-oriented code. It will be a pleasure to work with a talented
-developer and to contribute to the success of the company. <br> I am fond of reading a lots of Books ,so my goal is to convert these books into practical softwares (Actually that was my motivation to came to Teck World )  </i>
+    <i>- I am a full stack developer with experience in Java(Springboot), Mysql , AWS, Azure, React, and React Native. I am always eager to learn and expand my skillset. In my free time, I enjoy practicing spirituality and deep meditation, as well as reading meaningful books and watching documentaries. It is my passion to continually grow and improve both personally and professionally.</i>
 </h3>
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -49,24 +44,6 @@ developer and to contribute to the success of the company. <br> I am fond of rea
 
 
 <!----------------------------------- Project Section ------------------------------------>
-
-<h2><i>My top projects</i></h2>
-
-
-<p align="left">
-    <a href="https://github.com/KapilKumar7/myntra.com-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra Clone&color=f41cb2&logo=Myntra&logoColor=FFFFFF&label=" alt="Myntra-Clone" />
-    </a>
-    <a href="https://github.com/KapilKumar7/pluralsightclone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Plural Sight-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Plural Sight-Clone" />
-    </a>
-    <a href="https://github.com/KapilKumar7/omdb_Movies" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=omdb_Movies App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Omdb-App" />
-    </a>
-    
-    
-</p>
-<br>
 
 
 
