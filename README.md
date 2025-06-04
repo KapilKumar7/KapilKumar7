@@ -8,10 +8,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I am a full stack developer with experience in Java(Springboot), Mysql , AWS, Azure, React, and React Native. I am always eager to learn and expand my skillset. In my free time, I enjoy practicing spirituality and deep meditation, as well as reading meaningful books and watching documentaries. It is my passion to continually grow and improve both personally and professionally.</i>
-</h3>
-<br>
+<h3> <i>- I’m a backend-focused full-stack developer with hands-on experience in n8n, AI agents, Node.js, LangChain, Spring Boot, and cloud platforms like AWS and Azure. I love building systems that automate, scale, and solve real-world problems. Outside of code, I’m deeply into spirituality, meditation, and reading books that challenge the mind and spirit. Learning, experimenting, and evolving — both personally and professionally — is what drives me.</i> </h3> <br>
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
